@@ -9,5 +9,8 @@ public class Main
         System.out.println(new Date());
         System.out.println("Hello Canada!");
         System.out.println("Added one more file");
+
+        Student st = new Student();
+        st.sayHello();
     }
 }
